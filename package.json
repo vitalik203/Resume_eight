@@ -27,6 +27,7 @@
     "semantic-release": "^23.0.6"
   },
   "dependencies": {
-    "axios": "^1.6.8"
+    "axios": "^1.6.8",
+    "npm": "^10.5.0"
   }
 }
