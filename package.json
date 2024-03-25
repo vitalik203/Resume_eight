@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "main": "release.config.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
   },
   "author": "",
   "license": "ISC",
@@ -17,6 +18,13 @@
   "homepage": "https://github.com/vitalik203/Resume_eight#readme",
   "description": "",
   "devDependencies": {
-    "@semantic-release/npm": "^12.0.0"
+    "@semantic-release/npm": "^12.0.0",
+    "release-it": "^17.1.1"
+  },
+  "git": {
+    "commitMessage": "chore: release v${version}"
+  },
+  "github": {
+    "release": true
   }
 }
