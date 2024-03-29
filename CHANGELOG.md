@@ -1,5 +1,7 @@
 
 
+## [1.0.0](https://github.com/vitalik203/Resume_eight/compare/0.2.0...1.0.0) (2024-03-29)
+
 ## [0.2.0](https://github.com/vitalik203/Resume_eight/compare/0.1.1...0.2.0) (2024-03-29)
 
 
