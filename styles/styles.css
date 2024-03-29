@@ -135,4 +135,58 @@
        column-gap: 35px;
   height: 40px;
   margin: 20px 0 0 50px;
+}
+
+.language__cover {
+  display: flex;
+  height: 30px;
+  margin-left: 50px;
+  align-items: center;
+  position: relative;
+  top: 20px;
+  margin-top: 20px;
+}
+.language__cover p {
+  color: rgb(255, 255, 255);
+  font-family: Titillium Web;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: left;
+  align-items: center;
+  width: 72px;
+  margin-right: 6px;
+}
+
+.level {
+  position: relative;
+  align-items: flex-end;
+}
+
+.english-level_left {
+  width: 100%;
+  /* Primary color */
+  background: rgb(46, 126, 224);
+  height: 10px;
+}
+
+.deutsch-level_left {
+  width: 185px;
+  height: 10px;
+  background: rgb(46, 126, 224);
+}
+
+.francais-level_left {
+  width: 185px;
+  height: 10px;
+  background: rgb(46, 126, 224);
+}
+
+.level-lang {
+  width: 242px;
+  background-color: white;
+  overflow: hidden;
+  height: 10px;
+  position: relative;
 }/*# sourceMappingURL=styles.css.map */
