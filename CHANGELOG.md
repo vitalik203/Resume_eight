@@ -1,5 +1,12 @@
 
 
+## [0.2.0](https://github.com/vitalik203/Resume_eight/compare/0.1.1...0.2.0) (2024-03-29)
+
+
+### Features
+
+* filled and stylized education, work-experiance and skills blocks ([8446d05](https://github.com/vitalik203/Resume_eight/commit/8446d05428190861594c6358fba1f543e4bf6836))
+
 * fix: finished filled and stylized avatar, name and proffession block, and about-me block too (99a6955)
 
 ## [0.1.0](https://github.com/vitalik203/Resume_eight/compare/0.0.9...0.1.0) (2024-03-29)
