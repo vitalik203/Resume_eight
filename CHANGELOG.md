@@ -1,5 +1,7 @@
 
 
+* fix: filled and stylized language box (section) (08c2854)
+
 * fix: filled and stylized design skills (dbdab3e)
 
 * fix: finished filled and stylized tech-skills block (c0a572b)
