@@ -1,5 +1,7 @@
 
 
+* fix: filled and stylized hobby block or section (8846119)
+
 * fix: filled and stylized language box (section) (08c2854)
 
 * fix: filled and stylized design skills (dbdab3e)
