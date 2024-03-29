@@ -1,5 +1,7 @@
 
 
+* fix: added structure (sceleton) of contacts block (8e3970e)
+
 * fix: added two main columns of resume page (c57af13)
 * fix: added two main columns of resume page (37ac7f3)
 * chore: release v0.0.2 (7307f69)
