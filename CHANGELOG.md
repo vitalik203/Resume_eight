@@ -1,5 +1,7 @@
 
 
+* fix: created 2 columns through grid, and set background color for first column (9962e25)
+
 * fix: filled contacts block (3345e44)
 
 * fix: added structure (sceleton) of contacts block (8e3970e)
