@@ -127,4 +127,12 @@
   background: rgb(46, 126, 224);
   width: 236px;
   height: 100%;
+}
+
+.design-skills_box {
+  display: flex;
+  -moz-column-gap: 35px;
+       column-gap: 35px;
+  height: 40px;
+  margin: 20px 0 0 50px;
 }/*# sourceMappingURL=styles.css.map */
