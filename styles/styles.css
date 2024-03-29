@@ -15,7 +15,7 @@
   grid-template-columns: 410px 590px;
 }
 
-.wrapper-col {
+.wrapper-col:first-child {
   width: 410px;
 }
 
@@ -213,4 +213,86 @@
   line-height: 30px;
   letter-spacing: 0%;
   text-align: left;
+}
+
+.right-section_one {
+  display: flex;
+}
+
+.avatar-cover {
+  position: relative;
+  width: 187.98px;
+  height: 187.98px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 55px 0 0 45px;
+  background-image: url(../img/Avtar-cover.svg);
+  background-size: cover;
+}
+
+.avatar-background {
+  z-index: 2;
+}
+
+.avatar {
+  position: relative;
+  width: 108.15px;
+  height: 108.15px;
+  box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.4);
+  background: url(), rgb(255, 255, 255);
+  border-radius: 50%;
+  z-index: 1;
+  display: block;
+  margin: 0 auto;
+  left: 6px;
+  top: 6px;
+}
+
+.right-info_cover {
+  display: flex;
+  flex-direction: column;
+  margin-top: 119px;
+  align-items: flex-end;
+  margin-left: 29px;
+}
+.right-info_cover .name {
+  position: relative;
+  color: rgb(46, 126, 224);
+  font-family: Righteous;
+  font-size: 35px;
+  font-weight: 400;
+  line-height: 43px;
+  letter-spacing: 0%;
+}
+.right-info_cover .proffession {
+  color: rgb(43, 45, 48);
+  font-family: Righteous;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+  letter-spacing: 0%;
+  text-align: left;
+  margin-bottom: 36px;
+}
+.horisontal-line_right {
+  content: "";
+  width: 134px;
+  height: 1px;
+  /* Primary color */
+  border: 1.5px solid rgb(46, 126, 224);
+  margin-left: 50px;
+}
+
+.about {
+  color: rgb(43, 45, 48);
+  font-family: Titillium Web;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: left;
+  max-width: 498px;
+  margin-left: 50px;
+  margin-top: 10px;
 }/*# sourceMappingURL=styles.css.map */
