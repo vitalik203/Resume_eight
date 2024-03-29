@@ -20,6 +20,8 @@ body {
 .wrapper-col {
   width: 410px;
 }
+
+//Contacts
 .box__col1 {
 }
 .box__title {
@@ -35,11 +37,12 @@ body {
   margin: 50px 0 0 50px;
 }
 .horisontal-line {
+  display: block;
   content: "";
-  width: 113px;
   height: 1px;
   border: 1.5px solid rgb(255, 255, 255);
   margin-left: 50px;
+  width: 310px;
 }
 .wrapper-col:first-child {
   background: rgb(43, 45, 48);
@@ -71,4 +74,57 @@ body {
   text-align: left;
   max-width: 275px;
   align-items: center;
+}
+
+//Tech skills
+.tech-block {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+}
+.tech-block:first-child {
+  margin-top: 20px;
+}
+.horisontal-line:nth-child(2) {
+  margin-bottom: 20px;
+}
+.ai {
+  display: block;
+}
+.level {
+  width: 278px;
+  height: 10px;
+  overflow: hidden;
+  background-color: white;
+}
+.ai-level_left {
+  width: 175px;
+  height: 100%;
+  background: rgb(46, 126, 224);
+}
+.ph {
+}
+
+.ph-level_left {
+  background: rgb(46, 126, 224);
+  width: 141px;
+  height: 100%;
+}
+.xd {
+}
+
+.xd-level_left {
+  background: rgb(46, 126, 224);
+  width: 153px;
+  height: 100%;
+}
+.fig {
+}
+
+.fig-level_left {
+  background: rgb(46, 126, 224);
+  width: 236px;
+  height: 100%;
 }

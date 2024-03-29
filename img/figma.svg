@@ -1,0 +1,19 @@
+<svg width="32.000000" height="32.000000" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip7_25">
+			<rect id="logo figma icon 1" width="32.000000" height="32.000000" transform="translate(0.000000 -0.000061)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="logo figma icon 1" width="32.000000" height="32.000000" transform="translate(0.000000 -0.000061)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip7_25)">
+		<path id="Vector" d="M3.52 24.32C1.87 21.85 0.99 18.95 1 15.98C0.99 14.01 1.38 12.06 2.13 10.24C2.88 8.42 3.98 6.77 5.38 5.37C6.77 3.98 8.42 2.88 10.24 2.13C12.06 1.38 14.01 0.99 15.98 0.99C17.95 0.99 19.9 1.38 21.72 2.13C23.54 2.88 25.19 3.98 26.59 5.37C27.98 6.77 29.08 8.42 29.83 10.24C30.58 12.06 30.97 14.01 30.97 15.98C30.97 17.95 30.58 19.9 29.83 21.72C29.08 23.54 27.98 25.19 26.58 26.58C25.19 27.97 23.54 29.08 21.72 29.83C19.9 30.58 17.95 30.97 15.98 30.96C14.02 30.97 12.07 30.59 10.25 29.83C7.51 28.7 5.16 26.78 3.52 24.32Z" stroke="#2E7EE0" stroke-opacity="1.000000" stroke-width="2.000000"/>
+		<path id="path0_fill" d="M13 24.99C14.65 24.99 16 23.65 16 21.99L16 18.99L13 18.99C11.34 18.99 10 20.34 10 21.99C10 23.65 11.34 24.99 13 24.99Z" fill="#2E7EE0" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path1_fill" d="M10 15.99C10 14.34 11.34 12.99 13 12.99L16 12.99L16 18.99L13 18.99C11.34 18.99 10 17.65 10 15.99Z" fill="#2E7EE0" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path1_fill_1_" d="M10 9.99C10 8.34 11.34 6.99 13 6.99L16 6.99L16 12.99L13 12.99C11.34 12.99 10 11.65 10 9.99Z" fill="#2E7EE0" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path2_fill" d="M16 6.99L19 6.99C20.65 6.99 22 8.34 22 9.99C22 11.65 20.65 12.99 19 12.99L16 12.99L16 6.99Z" fill="#2E7EE0" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path3_fill" d="M22 15.99C22 17.65 20.65 18.99 19 18.99C17.34 18.99 16 17.65 16 15.99C16 14.34 17.34 12.99 19 12.99C20.65 12.99 22 14.34 22 15.99Z" fill="#2E7EE0" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
