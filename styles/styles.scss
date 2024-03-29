@@ -297,3 +297,39 @@ body {
   margin-left: 50px;
   margin-top: 10px;
 }
+
+//Education
+.education-box {
+  display: flex;
+  justify-content: space-between;
+  max-width: 498px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+.educational-building {
+  color: rgb(0, 0, 0);
+  font-family: Titillium Web;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.topography {
+  color: rgb(43, 45, 48);
+  font-family: Titillium Web;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+.educational-year {
+  color: rgb(0, 0, 0);
+  font-family: Titillium Web;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: left;
+}
