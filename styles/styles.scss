@@ -2,6 +2,18 @@ body {
 }
 
 .wrapper {
+  width: 1000px;
+  height: 1300px;
+  margin: 45px auto;
+  border: 2px solid gray;
+  border-radius: 10px;
+  display: grid;
+  grid-template-columns: 410px 590px;
 }
 .wrapper-col {
+  width: 328px;
+}
+
+.wrapper-col:first-child {
+  background: rgb(43, 45, 48);
 }
