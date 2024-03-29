@@ -1,5 +1,17 @@
 
 
+## [0.1.0](https://github.com/vitalik203/Resume_eight/compare/0.0.9...0.1.0) (2024-03-29)
+
+
+### Features
+
+* finished stylizing left column ([c9bbaed](https://github.com/vitalik203/Resume_eight/commit/c9bbaed4872bb1f6ef300f4033fdce98bdbf15f8))
+
+
+### Bug Fixes
+
+* filled and stylized hobby block or section ([8846119](https://github.com/vitalik203/Resume_eight/commit/884611971a1ae8b8c15c54052734a8d7581572e8))
+
 * fix: filled and stylized hobby block or section (8846119)
 
 * fix: filled and stylized language box (section) (08c2854)
