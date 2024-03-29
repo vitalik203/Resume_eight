@@ -1,5 +1,7 @@
 
 
+* fix: finished filled and stylized avatar, name and proffession block, and about-me block too (99a6955)
+
 ## [0.1.0](https://github.com/vitalik203/Resume_eight/compare/0.0.9...0.1.0) (2024-03-29)
 
 
