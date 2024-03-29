@@ -1,5 +1,10 @@
 
 
+* fix: added two main columns of resume page (18a3e6f)
+* fix: added two main columns of resume page (49c9073)
+* fix: added two columns of resume (9417025)
+* fix: added two columns of resume page (375b504)
+
 ## [0.0.2](https://github.com/vitalik203/Resume_eight/compare/0.0.1...null) (2024-03-29)
 
 
