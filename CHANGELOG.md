@@ -1,5 +1,7 @@
 
 
+* fix: finished stylized first block of first column (Contacts) (1faf930)
+
 * fix: created 2 columns through grid, and set background color for first column (9962e25)
 
 * fix: filled contacts block (3345e44)
