@@ -1,5 +1,7 @@
 
 
+* fix: filled and stylized design skills (dbdab3e)
+
 * fix: finished filled and stylized tech-skills block (c0a572b)
 
 * fix: finished stylized first block of first column (Contacts) (1faf930)
