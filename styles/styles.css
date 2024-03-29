@@ -1,4 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 .wrapper {
+  overflow: hidden;
   width: 1000px;
   height: 1300px;
   margin: 45px auto;
@@ -9,9 +16,62 @@
 }
 
 .wrapper-col {
-  width: 328px;
+  width: 410px;
+}
+
+.box__title {
+  color: rgb(46, 126, 224);
+  font-family: Righteous;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 37px;
+  letter-spacing: 0%;
+  text-align: left;
+}
+
+.box__title:first-child {
+  margin: 50px 0 0 50px;
+}
+
+.horisontal-line {
+  content: "";
+  width: 113px;
+  height: 1px;
+  border: 1.5px solid rgb(255, 255, 255);
+  margin-left: 50px;
 }
 
 .wrapper-col:first-child {
   background: rgb(43, 45, 48);
+}
+
+.contact-box {
+  display: flex;
+  -moz-column-gap: 10px;
+       column-gap: 10px;
+  margin-left: 50px;
+}
+
+.contact-box:first-child {
+  margin: 20px 0 0 50px;
+}
+
+.contact-logo {
+  display: block;
+  width: 30px;
+  height: 30px;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.contact-info {
+  color: rgb(255, 255, 255);
+  font-family: Titillium Web;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  letter-spacing: 0%;
+  text-align: left;
+  max-width: 275px;
+  align-items: center;
 }/*# sourceMappingURL=styles.css.map */
