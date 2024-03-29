@@ -1,5 +1,7 @@
 
 
+* fix: filled contacts block (3345e44)
+
 * fix: added structure (sceleton) of contacts block (8e3970e)
 
 * fix: added two main columns of resume page (c57af13)
